@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepanshu-bhalla" alt="deepanshu-bhalla" /></a> </p>
 
-- 🔭 I’m currently working as an **Technical Trainer Intern**
+- 🔭 I’m currently working as a **Technical Trainer Intern**
 
 - 🌱 Ask me about **Data Structures and Algorithms,DevOps and Flutter**
 
