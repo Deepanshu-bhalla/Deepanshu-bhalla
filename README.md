@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepanshu-bhalla" alt="deepanshu-bhalla" /></a> </p>
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working as an **Technical Trainer Intern**
 
-- 🌱 I’m currently learning **DevOps and Data Structures and Algorithms**
+- 🌱 Ask me about **Data Structures and Algorithms,DevOps and Flutter**
 
 - 👯 I’m looking to collaborate on **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deepanshu-bhalla](https://github.com/Deepanshu-bhalla)
-
-- 💬 Ask me about **Python, Flutter, Front-End and anything related to Computer Science**
 
 - 📫 How to reach me **deepanshubhalla2000@gmail.com**
 
